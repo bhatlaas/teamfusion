@@ -1,0 +1,9 @@
+D:\OneDrive\Workspace\CodePlex\stefanotempesta\StefanoTempestaNet\CodedUIMvc\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+D:\OneDrive\Workspace\CodePlex\stefanotempesta\StefanoTempestaNet\CodedUIMvc\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+D:\OneDrive\Workspace\CodePlex\stefanotempesta\StefanoTempestaNet\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+D:\OneDrive\Workspace\CodePlex\stefanotempesta\StefanoTempestaNet\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
+D:\OneDrive\Workspace\CodePlex\stefanotempesta\StefanoTempestaNet\CodedUIMvc\CodedUITestProject\bin\Debug\Users.csv
+C:\Users\user\Downloads\CodedUIMVC\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.csprojAssemblyReference.cache
+C:\Users\user\Downloads\CodedUIMVC\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\CodedUIMVC\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+C:\Users\user\Downloads\CodedUIMVC\CodedUIMvc\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
